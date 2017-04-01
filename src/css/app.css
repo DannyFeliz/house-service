@@ -1,0 +1,12 @@
+/* =========
+Your custom styles go here
+ ========= */
+
+.item-title.label.me{
+    width: 30% !important;
+    padding-left: 2.2% !important;
+}
+
+.fa{
+    font-size: 29px !important;
+}
